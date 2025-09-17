@@ -15,7 +15,14 @@ body {
     display: flex;
     gap: 20px;
     border: 2px solid pink;
-    justify-content: center;
+    justify-content: left;
+}
+
+.features2 {
+    display: flex;
+    gap: 20px;
+    border: 2px solid pink;
+    justify-content: rightgit;
 }
 
 .row {
