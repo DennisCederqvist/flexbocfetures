@@ -1,0 +1,43 @@
+
+/*  */
+
+.text {
+    text-align: center;
+}
+
+.features {
+    display: flex;
+    gap: 20px;
+    border: 2px solid pink;
+    justify-content: center;
+}
+
+.row {
+    display: flex;
+    border: 2px dotted green;
+    margin: 10px;
+    padding: 10px;
+}
+
+.box {
+    margin: 10px;
+    padding: 0px 25px;
+    border: 2px solid grey;
+    background-color: coral;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    border: 2px dotted green;
+    margin: 10px;
+    padding: 10px;
+}
+
+.circles {
+    margin: 10px;
+    padding: 0 25px;
+    border: 2px solid blue;
+    background-color: aquamarine;
+    border-radius: 100px;
+}
