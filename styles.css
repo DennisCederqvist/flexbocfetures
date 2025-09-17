@@ -41,3 +41,22 @@
     background-color: aquamarine;
     border-radius: 100px;
 }
+
+.space {
+    display: flex;
+    border: 2px dotted goldenrod;
+    padding: 20px;
+    width: 100%;
+    height: 500px;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+.box2 {
+    border: 2px solid red;
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+    text-align: center;
+    background-color: darksalmon;
+}
